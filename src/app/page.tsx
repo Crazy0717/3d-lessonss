@@ -33,6 +33,12 @@ function App() {
       >
         Earth Planet
       </Link>
+      <Link
+        className="m-6 py-2 px-4 border border-gray-400 rounded-md hover:border-gray-100 active:border-gray-400 text-gray-400 hover:text-gray-100 active:text-gray-400 transition-all duration-50"
+        href="/zoom-logo"
+      >
+        Zoom logo
+      </Link>
     </div>
   )
 }
